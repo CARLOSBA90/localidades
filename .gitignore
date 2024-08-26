@@ -1,3 +1,4 @@
 .vscode/sftp.json
 /files
 info.php
+database.php
